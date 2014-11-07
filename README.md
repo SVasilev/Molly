@@ -1,4 +1,4 @@
 Molly
 =====
 
-Javascript
+Javascript sidescroller. Project for HackFMI v4. 
