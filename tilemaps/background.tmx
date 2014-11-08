@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="23" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bgSpriteSheet" tilewidth="32" tileheight="32">
+  <image source="bgSpriteSheet.png" width="256" height="96"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzt1skOgzAMRVG30ELnefj/L60rFpWQEkAY59G8xdkihytMShEpiYiIiAytVRVRA8yYk6M6RZwBZswJe2BhDyxP9Yp4A8xIZGUvzb3oADAL/f4Hob1/UdcRbgBnbFsBzBByl2bvPwBmoXQWajmhAuCMQ7V3kedu2ajtxObYJBWPHmyC1wOhieUeCt2vxu42zx4ITdB59/iyuCekfm//1MOzadf32Pd+6fVdz7VHXzuj83c9J/ceH/ICLoY=
+  </data>
+ </layer>
+</map>
