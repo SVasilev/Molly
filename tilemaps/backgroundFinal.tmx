@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="300" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bgSpriteSheet" tilewidth="32" tileheight="32">
+  <image source="bgSpriteSheet.png" width="256" height="160"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="300" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3duOmzAUBdBp+9T2adqn6TW9/P83tlGFNKIZ4oONj4G1JEujhIkdEjaG2PDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANv6kd0AduFnwd/Q2peVz3EOvgP0tqd9nv7d+PSnOLJLdgOA4c33fY9/y4fK8rFHw0lR+/0AANr41qEO57S21eoz/NTob87JuVB6cr4BAADG47gwV83699kBLUUz5d7ykdfzWwTc9pTdgM6i73eeMyW5U5o3+llAjZcyJPp46fPA/8xxPa5745wcX7Jn8zE1I4+PieZs6XihW+/58cbjpY9Fno8uNy1rnBMA7E+ruRfmZABzLeZK7K045lnne3YDAAB2ose1NGAt30+A/ao9N3Np0QgAAAAADs3vCMBz5r0CZyT7/rEeAADKHWnOnX4gI4jMea6ZK3ypauV5ZP9ucKSMhUyuLbM96xjKuSZMrqm/bR1Df9HtL/t4DAAAAODMPq/4n9JxN8bnAABn83qhvElsV42n7AZ0EH2PWffhPsNnQT/vFsr72bKj3Ht+lHYAfUXy6paR7mH6Nbn+DCOtf9jaUl5dy9Lx4poSPcZ81amu0noyjpFb3b92Pja2dE5gi/qNi6eFe3nVupT02Z5726mu0nqi7QfaGS2vnu/Lr/tkeQVMRsurOXkFTORVrB55BXnkVaweeQV5MvJqfo5qibw6FtcppYb+VaweeQV55FWsHnm1LXMXWCKvYvXIK8gzWl4Zf0UPv7IbwCqj5dWcvGJyyW4A6eRVrB55BXnkVaweeTWemvnY5mHvS0ZeGX8FrNEzq9aQV8Bk5Ky6klfAZOSsupJXwGSLbb+G8VfAS6Lb/u/C1211XxR5BUxG61/NyStgIq9i9cgryBPZ/re6L87SvWnWZpW8guP5A4wsSiM=
+  </data>
+ </layer>
+</map>
