@@ -7,9 +7,15 @@
 		<script type="text/javascript" src="/lib/phaser/phaser.min.js"></script>
 		<script type="text/javascript" src="/lib/utils/presentation.js"></script>
 		<script type="text/javascript" src="/lib/jquery/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="/lib/game/Globals.js"></script>
+		<script type="text/javascript" src="/lib/game/TitleScreen.js"></script>
 		<script type="text/javascript" src="/lib/game/Player.js"></script>
 		<script type="text/javascript" src="/lib/game/LevelLoader.js"></script>
-		<script type="text/javascript" src="/lib/game/Game.js"></script>
+		<script type="text/javascript" src="/lib/game/PromoLevel.js"></script>
+		<script type="text/javascript" src="/lib/game/StatePreloader.js"></script>
+		<script type="text/javascript">
+			game.state.start('titleScreen');
+		</script>
 	</head>
 	<body>
 		<!--
